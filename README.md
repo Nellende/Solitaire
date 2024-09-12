@@ -1,0 +1,2 @@
+# Solitaire
+Solitaire by hand
